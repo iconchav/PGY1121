@@ -1,0 +1,340 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+"Ingrese los siguientes Valores
+Edad:
+Sexo:
+Dia Funcion:
+BIP:"
+5
+1
+17
+edad,sexo,dia,bip
+7
+0
+1
+20
+edad <15 OR edad >75
+7
+0
+1
+23
+edad >= 15 & edad <= 17
+7
+0
+1
+20
+edad > 17 & edad <60
+6
+1
+4
+tipo
+12
+Adulto mayor
+7
+0
+1
+12
+dia = martes
+7
+0
+1
+12
+dia = jueves
+7
+0
+1
+12
+dia = sabado
+7
+0
+1
+13
+dia = domingo
+4
+1
+36
+"ingreso valor no valido, reintente"
+13
+6
+1
+6
+precio
+5
+45000
+13
+13
+6
+1
+6
+precio
+5
+40000
+13
+13
+6
+1
+6
+precio
+5
+35000
+13
+13
+6
+1
+6
+precio
+5
+30000
+13
+13
+7
+0
+1
+12
+sexo = mujer
+7
+0
+1
+13
+sexo = hombre
+4
+1
+36
+"ingreso valor no valido, reintente"
+13
+6
+1
+4
+tipo
+13
+hombre adulto
+7
+0
+1
+12
+dia = jueves
+7
+0
+1
+12
+dia = jueves
+7
+0
+1
+12
+dia = sabado
+7
+0
+1
+13
+dia = domingo
+4
+1
+36
+"ingreso valor no valido, reintente"
+13
+6
+1
+6
+precio
+5
+95000
+13
+13
+6
+1
+6
+precio
+5
+90000
+13
+13
+6
+1
+6
+precio
+5
+85000
+13
+13
+6
+1
+6
+precio
+5
+80000
+13
+13
+13
+6
+1
+4
+tipo
+12
+mujer adulto
+7
+0
+1
+12
+dia = martes
+7
+0
+1
+12
+dia = jueves
+7
+0
+1
+12
+dia = sabado
+7
+0
+1
+13
+dia = domingo
+4
+1
+39
+"ingreso de valor no valido, reintente"
+13
+6
+1
+6
+precio
+5
+85000
+13
+13
+6
+1
+6
+precio
+5
+80000
+13
+13
+6
+1
+6
+precio
+5
+75000
+13
+13
+6
+1
+6
+precio
+5
+70000
+13
+13
+13
+13
+6
+1
+4
+tipo
+11
+adolescente
+7
+0
+1
+12
+dia = martes
+7
+0
+1
+12
+dia = jueves
+7
+0
+1
+12
+dia = sabado
+7
+0
+1
+13
+dia = domingo
+4
+1
+36
+"Ingreso valor no valido, reintente"
+13
+6
+1
+6
+precio
+5
+80000
+13
+13
+6
+1
+6
+precio
+5
+75000
+13
+13
+6
+1
+6
+precio
+5
+70000
+13
+13
+6
+1
+6
+precio
+5
+65000
+13
+13
+13
+4
+1
+31
+"Usted no puede comprar ticket"
+13
+7
+0
+1
+8
+bip = si
+6
+1
+9
+descuento
+31
+"NO Posee tarjeta MadonnaM BIP"
+13
+6
+2
+6
+precio
+12
+precio - 10%
+9
+descuento
+28
+"Posee tarjeta MadonnaM BIP"
+13
+4
+1
+80
+"Tipo de Entrada: ",tipo"
+Dia funcion: ",dia,"
+Precio: ",precio,"
+",descuento
+1
